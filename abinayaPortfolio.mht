@@ -1,0 +1,97 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://nA8ThbKEcfMFyen:bfDmvVvvFXHgGhU@localhost:34722/storage/emulated/0/Fonts/abinaya.html
+Subject: abinaya Portfolio
+Date: Sun, 14 Sep 2025 10:41:30 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--guSYwMSnpeI3NEpcUI0m15XPkUsY6WBzTQO2x1DEKQ----"
+
+
+------MultipartBoundary--guSYwMSnpeI3NEpcUI0m15XPkUsY6WBzTQO2x1DEKQ----
+Content-Type: text/html
+Content-ID: <frame-F547E71D636BD1CB8D61A5081A03DB95@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://nA8ThbKEcfMFyen:bfDmvVvvFXHgGhU@localhost:34722/storage/emulated/0/Fonts/abinaya.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-d0312e98-9f57-4689-ad07-70c7bd889006@mhtml.blink" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<title>abinaya Portfolio</title>
+
+</head>
+<body>
+
+<header>
+    <img src=3D"http://nA8ThbKEcfMFyen:bfDmvVvvFXHgGhU@localhost:34722/stor=
+age/emulated/0/Fonts/IMG-20220128-WA0015(0).jpg" alt=3D"Profile Photo">
+    <h1>abinaya Portfolio</h1>
+</header>
+
+<nav>
+    <button>Home</button>
+    <button>About</button>
+    <button class=3D"">Education</button>
+    <button class=3D"">Extra Curricular</button>
+    <button class=3D"active">Projects</button>
+    <button class=3D"">Bio Data</button>
+    <button class=3D"">Contact</button>
+</nav>
+
+<div id=3D"content" class=3D"show">
+                    <h2>My Projects</h2>
+                    <div class=3D"project"><strong>Portfolio Website</stron=
+g> - A simple responsive portfolio.</div>
+                    <div class=3D"project"><strong>To-Do App</strong> - A t=
+ask management web application.</div>
+                    <div class=3D"project"><strong>Calculator</strong> - A =
+simple calculator built with JavaScript.</div>
+                </div>
+
+
+
+
+
+</body></html>
+------MultipartBoundary--guSYwMSnpeI3NEpcUI0m15XPkUsY6WBzTQO2x1DEKQ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d0312e98-9f57-4689-ad07-70c7bd889006@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; margin: 0px; padding: 0px; backgroun=
+d: rgb(244, 244, 244); }
+
+header { background: rgb(51, 51, 51); color: rgb(255, 255, 255); padding: 1=
+5px; text-align: center; }
+
+header img { width: 100px; height: 100px; border-radius: 50%; margin-bottom=
+: 10px; border: 3px solid rgb(255, 255, 255); }
+
+nav { display: flex; flex-wrap: wrap; justify-content: center; background: =
+rgb(68, 68, 68); }
+
+nav button { background: rgb(68, 68, 68); color: rgb(255, 255, 255); border=
+: none; padding: 10px 20px; cursor: pointer; font-size: 16px; }
+
+nav button:hover, nav button.active { background: rgb(34, 34, 34); border-b=
+ottom: 2px solid rgb(255, 152, 0); }
+
+#content { max-width: 900px; margin: 20px auto; background: rgb(255, 255, 2=
+55); padding: 20px; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.1) 0px =
+0px 10px; opacity: 0; transition: opacity 0.5s ease-in-out 0s; }
+
+#content.show { opacity: 1; }
+
+h2 { color: rgb(51, 51, 51); }
+
+.project, .edu, .activity { margin-bottom: 10px; padding: 10px; background:=
+ rgb(249, 249, 249); border-left: 4px solid rgb(51, 51, 51); }
+
+.about-photo { width: 150px; height: 150px; border-radius: 50%; margin-bott=
+om: 15px; border: 3px solid rgb(51, 51, 51); }
+------MultipartBoundary--guSYwMSnpeI3NEpcUI0m15XPkUsY6WBzTQO2x1DEKQ------
